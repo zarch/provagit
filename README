@@ -1,4 +1,12 @@
-Aggiungere alcune informazioni utili...
-mettetele voi...
+Informazioni utili
+=====================
+
+Installazione
+----------------
+
+Linux
+^^^^^^
+
+pacman -Sy mypakg
 
 
