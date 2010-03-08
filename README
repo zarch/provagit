@@ -10,3 +10,8 @@ Linux
 pacman -Sy mypakg
 
 
+Windows
+^^^^^^^^
+
+lanciare mypakg.exe e cliccare n volte avanti.
+
