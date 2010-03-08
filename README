@@ -7,6 +7,15 @@ Installazione
 Linux
 ^^^^^^
 
-pacman -Sy mypakg
+**Compile**
+* scompattare
+* entrare nella cartella
+* config
+* make
+* make install
 
+**Distro**
+* **ArchLinux** pacman -Sy mypkg
+* **Debian** apt-get update && apt-get install mypkg
+* **Fedora** yum update && yum install mypkg
 
